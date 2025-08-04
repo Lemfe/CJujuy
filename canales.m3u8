@@ -12,5 +12,5 @@ https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild1.
 #EXTINF:-4, Canal 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-5, TyC sports
-https://edge-mix01-mus.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0NDk1MTgxIiwic2lwIjoiMTcwLjg0LjEyNy4xNDMiLCJwYXRoIjoiL2xpdmUvYzdlZHMvVHlDU3BvcnQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjRlYWIwYmUxZTQyYWEwYmMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIxMzYiLCJzb3VyY2VzIjpbNzUsODUsMTQ0LDg2LDg4XX0=.8bP9nYhrLN97FmT08M-h-VPymPzfR-4HoubyrJNrzaLC1roU8IbqpLhkARicEOKF3DRDCg5P_QKA2K3yj1Y9pg==/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
+#EXTINF:-5, America TV
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/e8172623-aa10-4a70-8599-d2b45eb360c2:SCL2/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8
