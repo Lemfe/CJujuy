@@ -12,6 +12,13 @@ https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master
 #EXTINF:-4, Canal 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-5, America TV
+https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97_720p/index.m3u8
 
+#EXTINF:-6, GTV
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-7, TvPublica
+https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9_720p/index.m3u8
 
 
