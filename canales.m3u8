@@ -7,10 +7,11 @@ https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/chunklist_w11542533
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1626579765_b1146880.m3u8
 
 #EXTINF:-3, Telefe
-https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild1.m3u8
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1758236220~exp=1758243420~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=90a445efe7fcc1596f2be4aa2acb5be007b06bae70677a5fa8ea0785ba0fab49
 
 #EXTINF:-4, Canal 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+
 
 
 
