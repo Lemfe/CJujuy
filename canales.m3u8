@@ -7,7 +7,7 @@ https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/chunklist_w11542533
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1626579765_b1146880.m3u8
 
 #EXTINF:-3, Telefe
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1758755902~exp=1758763102~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=e2261a543cc084ef8f4c2e6383c4ed52e1fade98dbc228be4b7a5c301a82d004
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1759182726~exp=1759189926~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=53a15a35b9349cee8364e97df2f66a97b330b7bd97222bae485866f5c02c3abd
 
 #EXTINF:-4, Canal 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
@@ -20,6 +20,7 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-7, TvPublica
 https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9_720p/index.m3u8
+
 
 
 
