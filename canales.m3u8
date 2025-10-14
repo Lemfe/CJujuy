@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, C4 Prueba
----
+#EXTINF:-1, Canal 4 Jujuy
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/chunklist_w391744013_b4128000.m3u8
 
 #EXTINF:-2, Canal7
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1626579765_b1146880.m3u8
@@ -20,6 +20,7 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-7, TvPublica
 https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9_720p/index.m3u8
+
 
 
 
