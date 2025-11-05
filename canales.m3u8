@@ -7,10 +7,10 @@ https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/chunklist_w39174401
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1626579765_b1146880.m3u8
 
 #EXTINF:-3, Extra
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1760914882~exp=1760922082~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=845b1d4455dfd67dce01498acf687bfac482c07a988adb4a945fdc9256b0d1ac
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1762353613~exp=1762360813~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=2df31de4e8662b8cd76c9c016da239a84cd48cd967052da5072465fd75c1176f
 
 #EXTINF:-4, Canal 13
-https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
 #EXTINF:-5, America TV
 https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97_720p/index.m3u8
@@ -20,6 +20,7 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-7, TvPublica
 https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9_720p/index.m3u8
+
 
 
 
