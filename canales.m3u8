@@ -24,6 +24,10 @@ https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9_720p/index.m3u8
 #EXTINF:-8, Direct
 http://38.183.182.166:8000/play/a125/index.m3u8
 
+#EXTINF:-9, Extra
+https://s3.vimeos.net/hls2/02/00000/c4wqz6n0xiei_h/master.m3u8?t=NgzMMvEig2VtficJgU50LUcBmGpBeNM3wUTyXWnirvM&s=1762562859&e=43200&v=26416546&i=0.0&sp=0&r=e
+
+
 
 
 
