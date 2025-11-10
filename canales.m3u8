@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, Canal 4 Jujuy
-https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/chunklist_w391744013_b4128000.m3u8
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 
 #EXTINF:-2, Canal 7
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1626579765_b1146880.m3u8
@@ -26,6 +26,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-9, Extra
 https://s3.vimeos.net/hls2/02/00000/c4wqz6n0xiei_h/master.m3u8?t=NgzMMvEig2VtficJgU50LUcBmGpBeNM3wUTyXWnirvM&s=1762562859&e=43200&v=26416546&i=0.0&sp=0&r=e
+
 
 
 
