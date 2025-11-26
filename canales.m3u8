@@ -1,33 +1,24 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/epgshare01/share01/master/epg/epg.xml"
+#EXTM3U 
 
-#EXTINF:-1 tvg-id="eltrece.ar" group-title="General/Abierta" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png",El Trece
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.m3u8player.online/
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-
-#EXTINF:-1 tvg-id="canal7jujuy.ar" group-title="General" tvg-name="Canal 7",Canal 7
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1626579765_b1146880.m3u8
-
-#EXTINF:-1 tvg-id="telefe.ar" group-title="General" tvg-name="Telefe",Telefe
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-
-#EXTINF:-1 tvg-id="eltrece.ar" group-title="General" tvg-name="Canal 13",Canal 13
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-
-#EXTINF:-1 tvg-id="americatv.ar" group-title="General" tvg-name="America TV",America TV
-https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="garagetv.ar" group-title="General" tvg-name="GTV",GTV
-https://stream1.sersat.com/hls/garagetv.m3u8
-
-#EXTINF:-1 tvg-id="tvpublica.ar" group-title="General" tvg-name="TV Pública",TvPublica
-https://joy.nx-pc.edge-apps.net/hls/m41f3-ad2jd-672pb-a46k9_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="direct.ar" group-title="General" tvg-name="Direct",Direct
-http://38.183.182.166:8080/play/a125/index.m3u8
-
-#EXTINF:-1 tvg-id="canal4jujuy.ar" group-title="General" tvg-name="Canal 4 Jujuy",Canal 4 Jujuy
+#EXTINF:-1, Canal 4 Jujuy
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 
+#EXTINF:-2, Canal 7
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1626579765_b1146880.m3u8
+
+#EXTINF:-3, Telefe
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+
+#EXTINF:-4, America TV
+https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97_720p/index.m3u8
+
+#EXTINF:-5, GTV
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-6, TvPublica
+https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9_720p/index.m3u8
+
+#EXTINF:-7, Direct
+http://38.183.182.166:8000/play/a125/index.m3u8
 
 
