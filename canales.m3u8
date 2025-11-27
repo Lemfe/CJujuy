@@ -1,7 +1,10 @@
-#EXTM3U 
+#EXTM3U url-tvg="https://impeditor.com/epg/capanueve/capanueve"
 
-#EXTINF:-1, Canal 4 Jujuy
-https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+# General/Abierta
+
+#EXTINF:-1 tvg-id="0915" group-title="General/Abierta" tvg-name="El Trece" ,
+#EXTVLCOPT:http-referrer=https://www.m3u8player.online/
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-2, Canal 7
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1626579765_b1146880.m3u8
@@ -21,4 +24,6 @@ https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9_720p/index.m3u8
 #EXTINF:-7, Direct
 http://38.183.182.166:8000/play/a125/index.m3u8
 
+#EXTINF:-8, Canal 4 Jujuy
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 
