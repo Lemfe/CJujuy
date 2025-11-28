@@ -2,7 +2,7 @@
 
 # General/Abierta
 
-#EXTINF:-1 "El Trece" ,
+#EXTINF:-1 tvg-id="0915" group-title="General/Abierta" tvg-name="El Trece" El trece,
 #EXTVLCOPT:http-referrer=https://www.m3u8player.online/
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
@@ -29,6 +29,7 @@ https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 
 #EXTINF:-9, Canal 5 Jujuy
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u2
+
 
 
 
