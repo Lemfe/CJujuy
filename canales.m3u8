@@ -2,7 +2,8 @@
 
 # General/Abierta
 
-#EXTINF:-1, El trece
+#EXTINF:-1 tvg-id="0915" group-title="General/Abierta" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png",El Trece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.m3u8player.online/
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
@@ -26,6 +27,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-8, Canal 4 Jujuy
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+
 
 
 
