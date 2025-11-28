@@ -1,12 +1,12 @@
 #EXTM3U 
 
-#EXTINF:-1, El Trece
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png", El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8|Referer=https://www.eltrecetv.com.ar/
 
-#EXTINF:-2, Canal 7
+#EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Canal_7_San_Salvador_de_Jujuy_%28Logo_2007%29.png", Canal 7
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1626579765_b1146880.m3u8
 
-#EXTINF:-3, Telefe
+#EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 #EXTINF:-4, America TV
@@ -23,6 +23,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-8, Canal 4 Jujuy
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+
 
 
 
