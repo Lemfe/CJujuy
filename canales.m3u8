@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png", El Trece
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=82&f=.ts
+https://list.iptvcat.com/my_list/s/e48d456389f245219b6a334fe8d21edb.m3u8
 
 #EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Canal_7_San_Salvador_de_Jujuy_%28Logo_2007%29.png", Canal 7
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1626579765_b1146880.m3u8
@@ -21,7 +21,8 @@ https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9_720p/index.m3u8
 #EXTINF:-7 tvg-logo="https://www.elcuatro.com/public/img/marcas/marcas_canal4_297.png", Canal 4 Jujuy
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/chunklist_w598529403_b4128000.m3u8
 
-
+#EXTINF:-8 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png", TyC
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 
 
 
