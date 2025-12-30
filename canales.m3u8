@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png", El Trece
-https://list.iptvcat.com/my_list/s/e48d456389f245219b6a334fe8d21edb.m3u8
+https://cdn-qtt8e0wdh3adc5mb.edgeon-bandwidth.com/engine/hls2-c/01/08686/kbqqclr60ysy_,n,.urlset/master.m3u8?t=hs-BHJxC0gW4A1xw6ot40onzojTmjhM3lrTSrGPe1Wk&s=1767116493&e=14400&f=43431524&node=f88Mrj+LmWxxrGcBDqcgTBeeCYaGKYgJc0I/71aYJYg=&i=170.84&sp=2500&asn=52312&q=n&rq=SM6clfUly2Jym8bkeyId7HHYY6OwDX6XF3hULK0D
 
 #EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Canal_7_San_Salvador_de_Jujuy_%28Logo_2007%29.png", Canal 7
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1626579765_b1146880.m3u8
@@ -23,6 +23,7 @@ https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/chunklist_w59852940
 
 #EXTINF:-8 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png", TyC
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+
 
 
 
