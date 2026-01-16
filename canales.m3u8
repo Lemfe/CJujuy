@@ -24,6 +24,9 @@ https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/chunklist_w59852940
 #EXTINF:-8 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png", TyC
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 
+#EXTINF:-9, test
+https://5cd577a3dd8ec.streamlock.net/radiomitre/live_2/playlist.m3u8
+
 
 
 
