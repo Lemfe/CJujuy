@@ -7,7 +7,7 @@ http://190.123.90.146:8000/play/a00n/index.m3u8?checkedby:iptvcat.com
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1626579765_b1146880.m3u8
 
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", Telefe
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1767540481~exp=1767547681~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=289775498bccddcc8968a3bfbfb16dcfbbdfda424589a808bb57ed63aa33d82c
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1768753582~exp=1768760782~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=e68986d96cbd25b4e6b13fb0dec893e32968d24dc2c7c20b6ff14db5f07cf23b
 
 #EXTINF:-4, America TV
 https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97_720p/index.m3u8
@@ -26,6 +26,7 @@ https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 
 #EXTINF:-9, test
 https://5cd577a3dd8ec.streamlock.net/radiomitre/live_2/playlist.m3u8
+
 
 
 
