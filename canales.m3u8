@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Canal_7_San_Salvador_de_Jujuy_%28Logo_2007%29.png", Canal 7
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1626363555_b1146880.m3u8
+https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S__36.1LW80CANAL7
 
 #EXTINF:-3, La100
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
@@ -12,8 +12,8 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-5, GTV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-6, TvPublica
-https://g3.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
+#EXTINF:-6, Radio City
+https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA5CAN
 
 #EXTINF:-7 tvg-logo="https://www.elcuatro.com/public/img/marcas/marcas_canal4_297.png", Canal 4 Jujuy
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/chunklist_w598529403_b4128000.m3u8
@@ -23,6 +23,7 @@ https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 
 #EXTINF:-9, Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
 
 
 
