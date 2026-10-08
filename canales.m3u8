@@ -15,9 +15,8 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA3CAN
 #EXTINF:-7 tvg-logo="https://www.elcuatro.com/public/img/marcas/marcas_canal4_297.png", Canal 4 Jujuy
 https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S____4CCANAL4____
 
-#EXTINF:-10, TYS Sports
-http://45.181.87.106/TYCSPORTSHD/index.m3u8
-
+#EXTINF:-10, El trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
 
 
 
