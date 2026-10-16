@@ -1,10 +1,13 @@
 #EXTM3U 
 
-#EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Canal_7_San_Salvador_de_Jujuy_%28Logo_2007%29.png", Canal 7
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1594857118_b1146880.m3u8
+#EXTINF:-1, Telefe
+http://45.173.231.22:8000/play/a053/index.m3u8
 
-#EXTINF:-3, La100
-https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
+#EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Canal_7_San_Salvador_de_Jujuy_%28Logo_2007%29.png", Canal 7
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w298445738_b2146304.m3u8
+
+#EXTINF:-3, ESPN
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8
 
 #EXTINF:-5, GTV
 https://stream1.sersat.com/hls/garagetv.m3u8
@@ -17,6 +20,8 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S____4CCANAL4____
 
 #EXTINF:-10, El trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
+
+
 
 
 
