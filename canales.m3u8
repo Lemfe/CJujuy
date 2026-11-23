@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1, Telefe
-http://45.173.231.22:8000/play/a053/index.m3u8
+https://ugc-cdn-caching-n3zlph1av5rmll3zwr.cloudwindow-route.com/engine/hls2/01/17979/lclswl5dg9ac_,n,.urlset/index-v1-a1.m3u8?t=mACqsvJRcX-I_sdQjkbNjkVYiyECXvjaRfgJepvCmYg&s=1795471027&e=14400&f=89897088&node=kf1dPs/XgtygpWPAxBZitLP8VWOaT79E03KYJcx9i5A=&i=181.177&sp=2500&asn=52312&q=n&rq=HTSOosdK14wYWA5YEbSW1L4MFsUNMAQEXMXyuiGE
 
 #EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Canal_7_San_Salvador_de_Jujuy_%28Logo_2007%29.png", Canal 7
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w298445738_b2146304.m3u8
