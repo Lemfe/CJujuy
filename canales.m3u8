@@ -7,7 +7,7 @@ http://45.173.231.22:8000/play/a053/index.m3u8
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w298445738_b2146304.m3u8
 
 #EXTINF:-3, ESPN
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8
+https://ugc-cdn-caching-n3htb6nx3sbh5yjtbq.cloudwindow-route.com/engine/hls2-c/01/08528/hc3zeczfx6t1_,n,.urlset/index-v1-a1.m3u8?t=kK-v43B5ZosjjNpTC8GLg1PSaWwgY-29bUnGH4e5zKI&s=1795467020&e=14400&f=42640740&node=4prfljwBg7uQxcwds15DlI0pMtNpyl+mDjROq3/I74I=&i=181.177&sp=2500&asn=52312&q=n&rq=HTSOosdK14wYWA5YEbSW1L4MFsUNMAQEXMXyuiGE
 
 #EXTINF:-5, GTV
 https://stream1.sersat.com/hls/garagetv.m3u8
